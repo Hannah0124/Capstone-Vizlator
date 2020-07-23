@@ -1,4 +1,4 @@
-# v-capstone
+# Capstone-Vizlator
 
 
 ### Learning Goals
