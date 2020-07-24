@@ -11,6 +11,14 @@ An Interactive moblie app that makes learning new words fun for everyone. The ap
 ### Target Audience
 Our target Audience are for everyone from world travellers to kids.
 
+### Demo video 
+To see a demo video, click the screenshot below.
+
+<a style="float:right" href="https://www.youtube.com/watch?v=z_yD4sx4tMs&feature=youtu.be" target="_blank">
+  <img alt="Demo Video" src="https://i.ibb.co/d58mrQf/vizlator.png" />
+</a>
+
+
 ### Links
 1. [Trello Board](https://trello.com/b/tAZTy5jC/ada-capstone)
 2. [Front End](https://github.com/Hannah0124/Capstone-React-Native-Frontend)
