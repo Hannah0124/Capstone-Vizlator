@@ -15,7 +15,7 @@ Our target Audience are for everyone from world travellers to kids.
 To see a demo video, click the screenshot below.
 
 <a style="float:right" href="https://www.youtube.com/watch?v=z_yD4sx4tMs&feature=youtu.be" target="_blank">
-  <img alt="Demo Video" src="https://i.ibb.co/d58mrQf/vizlator.png" />
+  <img alt="Demo Video" src="https://i.ibb.co/d58mrQf/vizlator.png" width="800" />
 </a>
 
 
